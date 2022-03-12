@@ -1,5 +1,7 @@
 # this-Blog-Has-Tech-In-It
 
+## Description
+
 GIVEN a CMS-style blog site
 WHEN I visit the site for the first time
 THEN I am presented with the homepage, which includes existing blog posts if any have been posted; navigation links for the homepage and the dashboard; and the option to log in
@@ -33,3 +35,51 @@ WHEN I click on the logout option in the navigation
 THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
+
+
+
+## Description
+
+
+
+## Table of Contents
+
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Built With](#built-with)
+  - [Credits](#credits)
+  - [Features](#features)
+  - [Image of Website](#image-of-website)
+
+
+## Built With
+
+- JavaScript
+- CSS
+- Handlebars.js
+- Express.js
+- Node.js
+- Sequelize
+- MySQL2
+- Dotenv
+- Heroku
+
+
+## Credits
+
+- Owen Haugen - https://github.com/Hone12345678
+
+
+
+
+## Features
+
+-allows user to create new posts on blog
+-allows user to delete posts
+-allows users to comment on posts
+
+
+
+## Image of Website
+
+![image](https://user-images.githubusercontent.com/46331608/158036541-df1f8489-9779-4f58-81f4-ad367ba27628.png)
